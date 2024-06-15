@@ -1,4 +1,4 @@
-# VPS-SC
+# aceque-premiumsc
  NOTFORSALE
 
  <h2 align="center">AutoScript Install VPN By CobraVPN <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
